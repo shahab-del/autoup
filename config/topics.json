@@ -1,0 +1,37 @@
+[
+  {
+    "title": "7 AI Automations That Actually Save Time",
+    "angle": "Useful automations for small businesses and solo creators",
+    "points": [
+      "Organize meeting notes",
+      "Summarize public documents",
+      "Draft replies for approval",
+      "Classify customer questions",
+      "Track simple website changes",
+      "Reformat structured data",
+      "Generate weekly status reports"
+    ]
+  },
+  {
+    "title": "What Can You Actually Automate With ChatGPT?",
+    "angle": "Realistic beginner guide to what needs integrations and APIs",
+    "points": [
+      "ChatGPT in chat versus the API",
+      "Scheduling",
+      "Authentication",
+      "Costs",
+      "Human approvals"
+    ]
+  },
+  {
+    "title": "Five Free Tools for Smarter Workflows",
+    "angle": "Conceptual workflow ideas rather than unverifiable product reviews",
+    "points": [
+      "Python",
+      "GitHub Actions",
+      "FFmpeg",
+      "Pillow",
+      "Local SQLite"
+    ]
+  }
+]
